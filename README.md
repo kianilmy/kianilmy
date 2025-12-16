@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-**Senior Full-Stack Engineer** with **6 years of impactful contribution** crafting digital solutions that streamline operations and deliver meaningful results. Across previous roles, built front-end and back-end systems that integrated APIs, connected third-party services, and leveraged emerging technologies—such as **DeFi** to transform finance and **AI** to deliver smarter, user-centric experiences. My stack includes FastAPI, Node, React, Next, Web3 and SQL.
+**Senior Full-Stack Engineer** with **6 active years** of product delivery and architecting scalable systems. Across previous roles, built front-end and back-end systems that integrated APIs, connected third-party services, and leveraged emerging technologies—such as **DeFi** to transform finance and **AI** to deliver smarter, user-centric experiences. My stack includes FastAPI, Node, React, Next, Web3 and SQL.
 
 ## 💻 Tech Stack
 
