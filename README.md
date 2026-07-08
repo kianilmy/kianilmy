@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Kyyas
 
-### Senior Full-Stack Engineer | 6 Years of Delivery | Web3 & AI Automation
+### Senior Full-Stack Engineer | 7 Years of Delivery | Web3 & AI Automation
 
 <a href="https://kyyas.dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/AI_Portfolio-61DAFB?style=for-the-badge&logoColor=white" alt="AI Portfolio"></a>
 <a href="https://linkedin.com/in/kyyasdev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-3065AA?style=for-the-badge&logoColor=white" alt="LinkedIn"></a>
@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-**Senior Full-Stack Engineer** with **6 active years** of product delivery and architecting scalable systems. Across previous roles, built front-end and back-end systems that integrated APIs, connected third-party services, and leveraged emerging technologies—such as **DeFi** to transform finance and **AI** to deliver smarter, user-centric experiences. My stack includes FastAPI, Node, React, Next, Web3 and SQL.
+**Senior Full-Stack Engineer** with **7 active years** of product delivery and architecting scalable systems. Across previous roles, built front-end and back-end systems that integrated APIs, connected third-party services, and leveraged emerging technologies—such as **DeFi** to transform finance and **AI** to deliver smarter, user-centric experiences. My stack includes FastAPI, Node, React, Next, Web3 and SQL.
 
 ## 💻 Tech Stack
 
