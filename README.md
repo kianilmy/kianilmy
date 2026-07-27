@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Kyyas
 
-### Senior Full-Stack Engineer | 7 Years of Delivery | Web3 & AI Automation
+### Senior Software Engineer | AI Automation | 7 Years Building Products
 
 <a href="https://kyyas.dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/AI_Portfolio-61DAFB?style=for-the-badge&logoColor=white" alt="AI Portfolio"></a>
 <a href="https://linkedin.com/in/kyyasdev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-3065AA?style=for-the-badge&logoColor=white" alt="LinkedIn"></a>
