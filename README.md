@@ -1,8 +1,9 @@
-<div align="">
+<div align="center">
 
 # 👋 Hey, I'm Kian
 
 ### Software Engineer | Full-Stack | Backend | Python | FastAPI | Node.js | React | AI | LLM
+</div>
 
 ## 🚀 About Me
 
