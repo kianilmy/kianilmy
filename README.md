@@ -3,6 +3,10 @@
 # 👋 Hey, I'm Kian
 
 ### Software Engineer | Full-Stack | Backend | Python | FastAPI | Node.js | React | AI | LLM
+
+**Email:** [kian.ilmy@gmail.com](mailto:kian.ilmy@gmail.com)  
+**WhatsApp / Telegram (Georgia):** [+995 598 193 800](https://wa.me/995598193800)
+
 </div>
 
 ## 🚀 About Me
