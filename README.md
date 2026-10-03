@@ -1,17 +1,12 @@
 <div align="center">
 
-# 👋 Hey, I'm Kyyas
+# 👋 Hey, I'm Kian
 
-### Senior Software Engineer | AI Automation | 7 Years Building Products
-
-<a href="https://kyyas.dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/AI_Portfolio-61DAFB?style=for-the-badge&logoColor=white" alt="AI Portfolio"></a>
-<a href="https://linkedin.com/in/kyyasdev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-3065AA?style=for-the-badge&logoColor=white" alt="LinkedIn"></a>
-<a href="https://my-extra-screen.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Fun_Project-FFB100?style=for-the-badge&logoColor=white" alt="Fun Project"></a>
-</div>
+### Software Engineer | Full-Stack | Backend | Python | FastAPI | Node.js | React | AI | LLM
 
 ## 🚀 About Me
 
-**Senior Full-Stack Engineer** with **7 active years** of product delivery and architecting scalable systems. Across previous roles, built front-end and back-end systems that integrated APIs, connected third-party services, and leveraged emerging technologies—such as **DeFi** to transform finance and **AI** to deliver smarter, user-centric experiences. My stack includes FastAPI, Node, React, Next, Web3 and SQL.
+**Software Engineer** with **7+ years** of experience building digital products across **AI automation, SaaS, media, and Web3**. Experienced in developing full-stack applications, backend platforms, real-time systems, and AI-powered products from architecture through production. Strong background in Node.js, React, FastAPI, Python, SQL, APIs, and WebSockets, with hands-on experience integrating third-party services, LLMs, and automation workflows. Focused on reliable, scalable software with measurable improvements in performance, efficiency, and user experience.
 
 ## 💻 Tech Stack
 
@@ -21,7 +16,6 @@
 ![Typescript(Nest, Next)](<https://img.shields.io/badge/Typescript(Nest,_Next)-10B981?style=for-the-badge&logoColor=black>)
 ![Python (FastAPI)](<https://img.shields.io/badge/Python_(FastAPI)-FF773D?style=for-the-badge&logoColor=black>)
 ![SQL](https://img.shields.io/badge/SQL-764ABC?style=for-the-badge&logoColor=black)
-![Solidity](https://img.shields.io/badge/Solidity-61DAFB?style=for-the-badge&logoColor=black)
 
 ### Frameworks & Libraries
 
@@ -103,6 +97,6 @@
 
 <div align="center">
 
-### ⚡ "1 Life 4 Web3 & AI Automation"
+### ⚡ "I Prefer Live Over Perfect"
 
 </div>
